@@ -1,4 +1,4 @@
-
+import React from "react"
 const App = () => {
   const arr=["A","B","C"]
 return (
